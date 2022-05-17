@@ -1,3 +1,7 @@
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,blender,bootstrap,css,git,html,js,jquery,laravel,latex,linkedin,linux,mysql,nodejs,perl,php,postgres,py,raspberrypi,vim,vue,&perline=3)](https://skillicons.dev)
+
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Openwrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
