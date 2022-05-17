@@ -1,6 +1,8 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mobovero" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/mobovero?trk=profile-badge">▹Matteo O. Bovero◃</a></div>
+Where to find me
+
+<a href="https://it.linkedin.com/in/mobovero"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg'></a>
               
+My Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
