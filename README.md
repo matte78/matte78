@@ -1,4 +1,7 @@
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+
 
 
 - 👋 Hi, I’m @matte78
