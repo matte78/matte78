@@ -1,8 +1,8 @@
-Where to find me
+<h3>Where to find me</h3>
 
 <a href="https://it.linkedin.com/in/mobovero"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg'></a>
               
-My Skills
+<h3>My Skills</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
