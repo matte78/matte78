@@ -1,7 +1,7 @@
 
 
 ## 🌐Socials
-<a href="https://it.linkedin.com/in/mobovero"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg'></a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobovero/)
 
 # 💻Tech Stack
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=22272e) 
