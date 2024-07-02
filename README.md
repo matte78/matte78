@@ -4,11 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobovero/)
 
 # 💻Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=22272e) 
-![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=22272e) 
-![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=22272e) 
-![Bootstrap](https://img.shields.io/badge/-Pytest-05122A?style=flat-square&logo=Pytest&color=22272e) 
-![Bootstrap](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=22272e)
+|-|-|
+|![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=22272e) | ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e) |
+|![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=22272e) | ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e) |
+|![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=22272e)  | ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e)| 
+|![Bootstrap](https://img.shields.io/badge/-Pytest-05122A?style=flat-square&logo=Pytest&color=22272e)  | ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e) |
+|![Bootstrap](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=22272e) | ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e) |
 
 ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=22272e) 
 ![Bootstrap](https://img.shields.io/badge/-Symfony-05122A?style=flat-square&logo=Symfony&color=22272e) 
